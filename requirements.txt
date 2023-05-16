@@ -19,7 +19,7 @@ Flask-RESTful==0.3.8
 Flask-SocketIO==3.0.1
 Flask-SQLAlchemy==2.4.4
 Flask-WTF==0.14.3
-gevent==21.1.2
+gevent
 greenlet==1.1.0
 gunicorn==20.0.4
 idna==2.10
